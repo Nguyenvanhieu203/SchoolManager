@@ -1,0 +1,97 @@
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe.config
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.funstion.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.login.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Techer.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.student.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_lớp_học.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_môn_học.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_điểm.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.exe
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\BLL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\DTO.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\BLL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\DTO.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe.config
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\BLL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\DTO.dll
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\BLL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\DTO.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\bin\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.funstion.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.login.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Techer.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.student.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_lớp_học.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_môn_học.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_điểm.resources
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.exe
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe.config
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\DTO.dll
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\DTO.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.funstion.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.login.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Techer.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.student.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_lớp_học.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_môn_học.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_điểm.resources
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.exe
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Dangky.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe.config
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\BLL.dll
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\DAL.dll
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\BLL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\bin\Debug\DAL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Dangky.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.login.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Techer.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.student.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_lớp_học.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_môn_học.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_điểm.resources
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.exe
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.ManagerMain.resources

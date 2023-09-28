@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\quanliTHPT\DTO\bin\Debug\DTO.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\DTO\bin\Debug\DTO.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\DTO\obj\Debug\DTO.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\DTO\obj\Debug\DTO.pdb

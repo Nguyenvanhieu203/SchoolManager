@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\bin\Debug\DTO.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\bin\Debug\DTO.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\bin\Debug\DTO.dll
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\bin\Debug\DTO.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\quanliTHPT (1)\quanliTHPT\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\bin\Debug\DTO.dll
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\bin\Debug\DTO.pdb
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\quanliTHPT\DAL\obj\Debug\DAL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\bin\Debug\DAL.dll
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\bin\Debug\DAL.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\obj\Debug\DAL.dll
+C:\Users\nguye\OneDrive\Máy tính\quanliTHPT\DAL\obj\Debug\DAL.pdb

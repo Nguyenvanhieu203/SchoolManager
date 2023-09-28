@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe.config
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.exe
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\bin\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.exe
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.pdb
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.login.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_lớp_học.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_môn_học.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Quản_lí_điểm.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.Techer.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.student.resources
+C:\Users\Lenovo\source\repos\quanliTHPT\quanliTHPT\obj\Debug\quanliTHPT.funstion.resources
